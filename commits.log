@@ -1,0 +1,98 @@
+commit b57eff4e76cfd2691986e2539801e96ae11ba478
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 21:25:48 2023 -0500
+
+    Agregando 2 párrafos
+
+commit ecf732f8cda72d24180a8ad93bf28b4004c80eb6
+Merge: b2b8bd4 9de0321
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 21:19:42 2023 -0500
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit b2b8bd41586c843e3806d17e60f017fc875df558
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 20:37:21 2023 -0500
+
+    nuevo mensaje para el último commit
+
+commit 9de032166bd79a9c0c9c2317e71bfb6aaa1e5591
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 20:37:21 2023 -0500
+
+    Agregando las estaciones del año
+
+commit e18e07fbfcc2d61ccbd2e49e97b4bbf963dc53c8
+Merge: 03e5a91 a7b721e
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 20:28:22 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html.
+
+commit a7b721eeb329a7b79edc109faca56bbf0ca23756
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 20:19:29 2023 -0500
+
+    Agregando index.js al index.html
+
+commit 03e5a91212299f8d731632239a8279874c20e0b1
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 20:14:31 2023 -0500
+
+    Agregando style.css al index.html
+
+commit 5a68fb255f05c63fd3f58e8125660d18fe46d161
+Merge: 63f119f 16d0297
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 19:59:46 2023 -0500
+
+    Merge branch 'js'
+
+commit 16d0297719d2de2b51374c997aa68447cf2c7099
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 19:51:33 2023 -0500
+
+    Creando index.js
+
+commit 63f119f5a511bf450cf2b78a07d5b916d4c1e682
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 19:44:30 2023 -0500
+
+    Creando style.css
+
+commit c63d9b77c45796db4e1f2adf62970abf307fa4f5
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 19:38:42 2023 -0500
+
+    Creando Archivo index.html
+
+commit ffdee073dd51f83c3103a0d72695f9f949db70cc
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 14:43:48 2023 -0500
+
+    Ignorando archivos .exe
+
+commit fe61f22a9622aad26176489d3da24231ffe0532f
+Author: rdavila1604 <74460237+rdavila1604@users.noreply.github.com>
+Date:   Mon May 8 13:42:03 2023 -0500
+
+    Creando licencia del repositorio
+
+commit 6a18615136d0a0d94d54cdc8a1db0923a1a9d849
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 13:35:33 2023 -0500
+
+    Agregando mas contenido al README
+
+commit c5bc61eef7de787aadcc6f5a06478dc1fdac7eef
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 13:26:01 2023 -0500
+
+    Agregando contenido inicial al README
+
+commit c52957a41be6d67c69017364d1fa1448858ffd82
+Author: rdavila1604 <raymondcalixto@gmail.com>
+Date:   Mon May 8 13:16:45 2023 -0500
+
+    Primer commit
